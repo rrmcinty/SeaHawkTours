@@ -1,0 +1,168 @@
+<resources>
+    <!--BUILDING ACTIVITY STRINGS-->
+
+    <!--headers-->
+    <string name="header">Building History</string>
+
+    <!--building titles-->
+    <string name="app_name">SeahawkTours</string>
+    <string name="app_help">Display information about selected UNCW building.</string>
+    <string name="cis_string">CIS Building</string>
+    <string name="bear_string">Bear Hall</string>
+    <string name="dobo_string">Dobo Hall</string>
+    <string name="depaolo_string">Depaolo Hall</string>
+    <string name="morton_string">Morton Hall</string>
+
+    <!--building information-->
+    <string name="bear_paragraph">
+        Building History
+        \n\n
+        Bear Hall opened at its present site in 1972 as the home for the Business
+        and Economics Departments. Currently, the Departments of Computer Science,
+        Mathematics &amp; Statistics, and Philosophy &amp; Religion occupy classrooms,
+        teaching labs and faculty offices. The College of Arts and Science also resides here.
+        \n\n
+        Namesake
+        \n\n
+        As the inscription on the plaque states Bear Hall is named for, "The original Isaac Bear
+        Building, located at Market and 13th Streets, served as the first home of Wilmington College,
+        outside the public school system. Classes were first held there in 1947." Constructed in 1912,
+        the name of the first building was given by Samuel Bear, Jr. (1854-1916) as a memorial to his
+        brother, Isaac Bear. The Bear family, owners of an intrastate wholesale dry goods firm located
+        on Front Street, made a number of large donations to better the community such as a wing to James
+        Walker Memorial Hospital. Isaac Bear was known as "one of Wilmington\'s most capable and highly
+        esteemed businessmen." He was a member of North State Lodge of B\'Nai Brith, past Grand President
+        of District Grand Lodge, and B.P.O.E Elks #532. Upon his death, the Isaac Bear Memorial School
+        served to remember "the close friendship and devotion between the brothers and their interest in
+        public welfare." The Order of the Isaac Bear is an honorary organization composed of faculty members
+        that taught at the site of the original Wilmington College. Once the college built the new campus off
+        of College Road, the Isaac Bear Building was torn down (1961).
+        \n\n
+    </string>
+    <string name="cis_paragraph">
+        Building History
+        \n\n
+        The Computer Information Systems (CIS) building was constructed to house the
+        Information Systems and Operations Management Department from the Cameron School
+        of Business and the Department of Computer Science from the College of Arts &amp;
+        Sciences. The CIS Building, a new 51,731 square-foot state-of-the-art facility on
+        the UNCW campus, opened January 10, 2007 for the new school semester. Work on the
+        facility began on July 29, 2004 with the groundbreaking, and competed in December
+        of 2006. The building cost approximately $12.8 million and was funded by the North
+        Carolina State Bond campaign of 2000.
+        \n\n
+        Housed within the new building is the Financial Markets Room and, thanks to a donation
+        from Edward Jones and over 50 if its financial advisers, the Edward Jones Financial Lab.
+        Both rooms contain a stock board and ticker, however the Edward Jones Financial Lab also
+        includes the Bloomberg Trading Terminal. With this terminal, students and faculty have the
+        ability to trade stocks directly with the New York Stock Exchange, NASDAQ and more.
+        \n\n
+        The Department of Computer Science and the Department of Information Systems &amp; Operations
+        Management are housed at CIS together and are jointly offering a Master of Science in Computer
+        Science Information Systems (MSCSIS) degree, an intensive graduate program aimed at preparing
+        the student to assume leadership roles in the development and implementation of computer and
+        information systems.
+        \n\n
+    </string>
+    <string name="dobo_paragraph">
+        Building History
+        \n\n
+        Opened for use in 1996, the New Science Building contained classrooms, laboratories and faculty
+        offices for the Chemistry and Biology Departments. Known as Dobo Hall since its 1999 dedication
+        to the Dobo brothers, it is currently used by the Department of Biology and Marine Biology and the
+        Department of Chemistry.
+        \n\n
+        Namesakes
+        \n\n
+        As both native sons and alumni of Wilmington College the brothers Dobo made their mark on the local
+        community. Gabriel William (Bill), a World War II veteran came to the newly opened college in 1948
+        and wrote a column for the "Seahawk" newspaper. Robert (Bob) Ridgely, also a veteran on World War II,
+        attended Wilmington College in 1950. After completing their studies, the brothers established two private
+        water companies - Cape Fear Utilities and Quality Water Supplies, which contributed to the growth of New
+        Hanover County. Their businesses were sold to the City of Wilmington in 1999. As philanthropists, their
+        generosity has sustained UNCW and other educational and humanitarian institutions throughout the state.
+        The building\'s plaque inscription reflects their benevolent dedication, "The future of southeastern North
+        Carolina is brighter as a result of their commitment to their hometown, Wilmington College and the University
+        of North Carolina at Wilmington." Bob Dobo passed away April 28, 2009.
+        \n\n
+    </string>
+    <string name="depaolo_paragraph">
+        Building History
+        \n\n
+        DePaolo Hall was built in 1970 and was the original cafeteria on campus. After Wagoner Hall opened in 1989,
+        the building was renamed Westside Hall because of its geographic location on campus. It houses student services
+        including Abrons Student Health Center, CARE and Crossroads, University Testing Services, Disability Services,
+        the University Learning Center, and University College. On April 29, 2011, the UNCW Board of Trustees announced
+        the renaming of Westside Hall to DePaolo Hall in honor of Rosemary DePaolo, who retired June 30 after eight years
+        as Chancellor. The naming recognizes Dr. DePaolo\'s leadership at UNCW and her commitment to put students first while
+        accomplishing the ambitious strategic goals of her administration.
+        \n\n
+        Namesake
+        \n\n
+        Dr. Rosemary DePaolo was the Chancellor of the University of North Carolina Wilmington from 2003-2011. During her tenure
+        as Chancellor of UNCW, she oversaw $250 million in construction projects. More than 40 percent of all students now live on
+        campus. SAT entry scores and enrollment numbers rose considerably. Graduation rates exceeded the national average by more
+        than 12 percent. In 2010 for the first time ever, US News and World Report ranked UNCW in the top 5 of public master\'s universities
+        \in the South. The Princeton Review listed the Cameron School of Business as one of its featured 300 in the "Best Business Schools"
+        guidebook edition. UNCW was also named one of the nation\'s "most military friendly" schools for the second year in a row by G.I. Jobs.
+        \n\n
+        Dr. DePaolo previously served at Georgia Southern University, Western Carolina University, and then as president of Georgia College and
+        State University. She holds a doctorate in 18th-century English literature. The Long Island native is married to a retired English professor.
+        \n\n
+    </string>
+    <string name="morton_paragraph">
+        Building History
+        \n\n
+        Opened as the Humanities Building in 1978, it was renamed as Morton Hall in an April 1981 dedication. Morton Hall currently houses classrooms
+        and offices for the English Department, Creative Writing Program, History Department, as well as the multi-purpose Bryan Auditorium.
+        \n\n
+        Namesake
+        \n\n
+        Miss Margaret "Shannon" Morton, a native of Clarksville, Virginia received her BA from Longwood College in Virginia. Her Master of Arts in English
+        was earned at Peabody College in Tennessee, with additional graduate work completed at UNC-Chapel Hill and William and Mary College. As one of the
+        original faculty members at Wilmington College, Miss Morton holds the title of many "firsts." She was the first full time teacher hired, the first
+        teacher in the Department of English (1947-1963), and the first Chairman of the English Department. From 1955-1965 she was the Dean of Women as well
+        as the advisor to the writing club "Pen Pushers." She retired in 1965 as professor emeritus. Morton Hall\'s dedication plaque reflects on her service,
+        "The high standards of academic achievement she set for herself and for her students symbolizes the high ideals, dedication and enthusiasm essential
+        to teaching excellence in institutions of higher education."
+        \n\n
+    </string>
+
+    <!--buliding captions-->
+    <string name="bear_caption">This is a bear</string>
+    <string name="cis_caption">This is the CIS Building</string>
+    <string name="dobo_caption">This is Dobo Hall</string>
+    <string name="depaolo_caption">This is Depaolo Hall</string>
+    <string name="morton_caption">This is Morton Hall</string>
+
+    <!--building link-->
+    <string name="building_for_more">For more information visit: </string>
+    <string name="bear_link">https://library.uncw.edu/web/collections/archives/bnl/19.html</string>
+    <string name="cis_link">https://library.uncw.edu/web/collections/archives/bnl/cis.html</string>
+    <string name="dobo_link">https://library.uncw.edu/web/collections/archives/bnl/25.html</string>
+    <string name="depaolo_link">https://library.uncw.edu/web/collections/archives/bnl/6.html</string>
+    <string name="morton_link">https://library.uncw.edu/web/collections/archives/bnl/18.html</string>
+
+    <!--ABOUT PAGE STRINGS-->
+
+    <!--header-->
+    <string name="action_about">About</string>
+
+
+    <!--info-->
+    <string name="about_created_by">Created by Ryan McIntyre</string>
+    <string name="about_link">UNCW building information and images courtesy of the UNCW <a href="https://library.uncw.edu/web/collections/archives/landmarks.html">UNIVERSITY ARCHIVES</a></string>
+
+
+    <!--SHARE action-->
+    <string name="action_share">Share</string>
+    <string name="share_building_info">Check out this UNCW building information for UNCW\'s&#160;</string>
+    <string name="main_list_text">Or click one of the following UNCW buildings to view more information: </string>
+
+
+    <!-- OTHER STRINGS -->
+    <string name="button_text">Click to get nearest building</string>
+    <string name="location_on">REMINDER: Location permissions turned ON</string>
+    <string name="location_off">REMINDER: Location permissions turned OFF</string>
+
+</resources>

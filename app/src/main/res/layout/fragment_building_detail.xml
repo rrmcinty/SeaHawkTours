@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/detail_scroll"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:context=".MainActivity">
+
+        <include
+            android:id="@+id/toolbar"
+            layout="@layout/toolbar_main" />
+
+        <TextView
+            android:id="@+id/building_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top|center"
+            android:gravity="center"
+            android:textSize="60sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/toolbar" />
+
+
+        <ImageView
+            android:id="@+id/building_img"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:adjustViewBounds="true"
+            android:contentDescription="Building image"
+            android:scaleType="fitCenter"
+            app:layout_constraintEnd_toEndOf="@+id/building_name"
+            app:layout_constraintStart_toStartOf="@+id/building_name"
+            app:layout_constraintTop_toBottomOf="@+id/building_name" />
+
+        <TextView
+            android:id="@+id/building_caption"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textSize="12sp"
+            app:layout_constraintEnd_toEndOf="@+id/building_img"
+            app:layout_constraintStart_toStartOf="@+id/building_img"
+            app:layout_constraintTop_toBottomOf="@+id/building_img" />
+
+
+        <TextView
+            android:id="@+id/building_info"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center"
+            android:layout_marginTop="0dp"
+            android:gravity="start"
+            android:textSize="16sp"
+            app:layout_constraintStart_toStartOf="@+id/building_img"
+            app:layout_constraintTop_toBottomOf="@+id/building_caption" />
+
+        <TextView
+            android:id="@+id/building_link"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:autoLink="web"
+            android:gravity="start"
+            android:text="@string/building_for_more"
+            app:layout_constraintTop_toBottomOf="@+id/building_info" />
+
+        <TextView
+            android:id="@+id/building_clickable_link"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:autoLink="web"
+            app:layout_constraintStart_toStartOf="@string/building_for_more"
+            app:layout_constraintTop_toBottomOf="@id/building_link"
+
+            />
+
+    </android.support.constraint.ConstraintLayout>
+</ScrollView>
